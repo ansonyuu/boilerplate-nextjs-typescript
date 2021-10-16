@@ -2,7 +2,9 @@
 
 This is a boilerplate for Next.js, Typescript, and Scss websites
 
-![Demo video](https://github.com/ansonyuu/boilerplate-nextjs-typescript/blob/main/public/video.mp4)
+https://user-images.githubusercontent.com/48683587/137595629-1b642f1f-70d9-4312-a96c-67445b30f937.mp4
+
+
 
 ## Features
 
