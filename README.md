@@ -1,4 +1,8 @@
-This is a boilerplate for Typescript, Next.js, and Scss websites
+## Boilerplate - Next.js, Typescript, and Scss
+
+This is a boilerplate for Next.js, Typescript, and Scss websites
+
+![Demo video](https://github.com/ansonyuu/boilerplate-nextjs-typescript/blob/main/public/video.mov)
 
 ## Features
 
