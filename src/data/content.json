@@ -1,0 +1,7 @@
+{
+  "home": {
+    "title": "Welcome to my boilerplate!",
+    "subtitle": "An opinionated approach using Typescript React, Next.js, and Scss",
+    "text": "If you end up using this, I'd love to share your project!! You can find me via social links in the footer"
+  }
+}
